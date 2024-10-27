@@ -1,0 +1,5996 @@
+[
+  {
+    "": 0,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane037ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 1,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane034a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 2,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane032arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 3,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane036ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 4,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane023ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 5,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane026a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 6,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0003ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 7,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane017arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 8,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane005ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 9,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane027arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 10,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane013ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 11,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane014a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 12,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane016ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 13,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane028a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 14,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane027ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 15,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane016arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 16,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane019ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 17,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0004arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 18,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane009arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 19,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane034ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 20,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane027a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 21,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane025arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 22,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane030ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 23,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane009a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 24,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane031a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 25,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0002arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 26,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane028ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 27,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane020ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 28,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane021arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 29,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0003ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 30,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane008ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 31,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane016a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 32,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane025ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 33,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane031ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 34,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane017ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 35,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane039ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 36,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane036ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 37,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0011a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 38,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane018ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 39,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0010arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 40,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane033ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 41,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane030arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 42,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane022ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 43,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane006ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 44,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane007ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 45,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane030a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 46,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0002ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 47,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane027ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 48,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane040a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 49,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane032a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 50,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane017ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 51,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane035arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 52,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane007ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 53,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane035ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 54,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane039arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 55,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane037a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 56,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane012ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 57,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane031arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 58,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane020a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 59,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane013arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 60,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane024a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 61,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane005ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 62,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0003arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 63,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane035a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 64,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0004ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 65,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane013a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 66,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0004a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 67,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane039ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 68,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane018a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 69,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane016ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 70,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0010ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 71,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane009ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 72,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0001arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 73,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane025a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 74,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane007arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 75,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane019arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 76,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0011ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 77,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane023ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 78,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane026ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 79,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane015ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 80,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane038a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 81,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane021ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 82,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane020ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 83,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0001ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 84,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane029a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 85,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane019a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 86,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane038arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 87,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane026arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 88,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane031ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 89,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0003a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 90,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane018ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 91,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane033ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 92,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane026ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 93,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane008a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 94,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane014ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 95,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane032ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 96,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane012ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 97,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0002ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 98,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane029ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 99,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane037arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 100,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane024ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 101,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane014ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 102,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane023arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 103,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane012a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 104,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane036arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 105,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane017a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 106,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane022a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 107,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane039a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 108,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0001ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 109,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane012arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 110,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0010ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 111,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane005arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 112,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane023a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 113,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane029arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 114,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane024ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 115,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane034ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 116,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane036a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 117,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane022arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 118,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0002a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 119,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane040ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 120,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane035ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 121,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane033arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 122,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane024arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 123,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane028arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 124,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0004ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 125,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane006a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 126,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane033a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 127,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane038ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 128,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0001a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 129,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane040ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 130,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane034arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 131,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0010a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 132,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0011ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 133,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane006ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 134,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane014arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 135,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane009ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 136,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane008ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 137,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane025ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 138,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane037ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 139,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane007a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 140,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane008arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 141,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane015arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 142,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane038ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 143,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane006arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 144,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane015a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 145,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane021a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 146,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane013ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 147,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane020arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 148,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane022ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 149,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane032ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 150,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane005a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 151,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane018arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 152,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane030ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 153,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane0011arot.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 154,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane021ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 155,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane029ahs.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 156,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane028ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 157,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane015ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 158,
+    "path": "/kaggle/input/kag2/sugarcane/sugarcane019ahf.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 159,
+    "path": "/kaggle/input/kag2/wheat/wheat0004a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 160,
+    "path": "/kaggle/input/kag2/wheat/wheat017a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 161,
+    "path": "/kaggle/input/kag2/wheat/wheat004a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 162,
+    "path": "/kaggle/input/kag2/wheat/wheat025arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 163,
+    "path": "/kaggle/input/kag2/wheat/wheat039ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 164,
+    "path": "/kaggle/input/kag2/wheat/wheat016ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 165,
+    "path": "/kaggle/input/kag2/wheat/wheat0004ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 166,
+    "path": "/kaggle/input/kag2/wheat/wheat039arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 167,
+    "path": "/kaggle/input/kag2/wheat/wheat023a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 168,
+    "path": "/kaggle/input/kag2/wheat/wheat019ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 169,
+    "path": "/kaggle/input/kag2/wheat/wheat009ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 170,
+    "path": "/kaggle/input/kag2/wheat/wheat037a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 171,
+    "path": "/kaggle/input/kag2/wheat/wheat005arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 172,
+    "path": "/kaggle/input/kag2/wheat/wheat018a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 173,
+    "path": "/kaggle/input/kag2/wheat/wheat009arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 174,
+    "path": "/kaggle/input/kag2/wheat/wheat019ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 175,
+    "path": "/kaggle/input/kag2/wheat/wheat018ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 176,
+    "path": "/kaggle/input/kag2/wheat/wheat006ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 177,
+    "path": "/kaggle/input/kag2/wheat/wheat027arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 178,
+    "path": "/kaggle/input/kag2/wheat/wheat013arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 179,
+    "path": "/kaggle/input/kag2/wheat/wheat034ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 180,
+    "path": "/kaggle/input/kag2/wheat/wheat011.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 181,
+    "path": "/kaggle/input/kag2/wheat/wheat030a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 182,
+    "path": "/kaggle/input/kag2/wheat/wheat036arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 183,
+    "path": "/kaggle/input/kag2/wheat/wheat040ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 184,
+    "path": "/kaggle/input/kag2/wheat/wheat009a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 185,
+    "path": "/kaggle/input/kag2/wheat/wheat012arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 186,
+    "path": "/kaggle/input/kag2/wheat/wheat038a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 187,
+    "path": "/kaggle/input/kag2/wheat/wheat016a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 188,
+    "path": "/kaggle/input/kag2/wheat/wheat007ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 189,
+    "path": "/kaggle/input/kag2/wheat/wheat007a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 190,
+    "path": "/kaggle/input/kag2/wheat/wheat011hf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 191,
+    "path": "/kaggle/input/kag2/wheat/wheat015ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 192,
+    "path": "/kaggle/input/kag2/wheat/wheat026a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 193,
+    "path": "/kaggle/input/kag2/wheat/wheat014ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 194,
+    "path": "/kaggle/input/kag2/wheat/wheat032ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 195,
+    "path": "/kaggle/input/kag2/wheat/wheat020arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 196,
+    "path": "/kaggle/input/kag2/wheat/wheat0002ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 197,
+    "path": "/kaggle/input/kag2/wheat/wheat031ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 198,
+    "path": "/kaggle/input/kag2/wheat/wheat035a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 199,
+    "path": "/kaggle/input/kag2/wheat/wheat034a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 200,
+    "path": "/kaggle/input/kag2/wheat/wheat037ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 201,
+    "path": "/kaggle/input/kag2/wheat/wheat006ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 202,
+    "path": "/kaggle/input/kag2/wheat/wheat013ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 203,
+    "path": "/kaggle/input/kag2/wheat/wheat029ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 204,
+    "path": "/kaggle/input/kag2/wheat/wheat020a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 205,
+    "path": "/kaggle/input/kag2/wheat/wheat021a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 206,
+    "path": "/kaggle/input/kag2/wheat/wheat003hs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 207,
+    "path": "/kaggle/input/kag2/wheat/wheat0001a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 208,
+    "path": "/kaggle/input/kag2/wheat/wheat014arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 209,
+    "path": "/kaggle/input/kag2/wheat/wheat031ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 210,
+    "path": "/kaggle/input/kag2/wheat/wheat007arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 211,
+    "path": "/kaggle/input/kag2/wheat/wheat013a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 212,
+    "path": "/kaggle/input/kag2/wheat/wheat040ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 213,
+    "path": "/kaggle/input/kag2/wheat/wheat040arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 214,
+    "path": "/kaggle/input/kag2/wheat/wheat018ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 215,
+    "path": "/kaggle/input/kag2/wheat/wheat024ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 216,
+    "path": "/kaggle/input/kag2/wheat/wheat021arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 217,
+    "path": "/kaggle/input/kag2/wheat/wheat021ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 218,
+    "path": "/kaggle/input/kag2/wheat/wheat004ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 219,
+    "path": "/kaggle/input/kag2/wheat/wheat016ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 220,
+    "path": "/kaggle/input/kag2/wheat/wheat026ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 221,
+    "path": "/kaggle/input/kag2/wheat/wheat026arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 222,
+    "path": "/kaggle/input/kag2/wheat/wheat004ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 223,
+    "path": "/kaggle/input/kag2/wheat/wheat0004ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 224,
+    "path": "/kaggle/input/kag2/wheat/wheat022arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 225,
+    "path": "/kaggle/input/kag2/wheat/wheat003hf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 226,
+    "path": "/kaggle/input/kag2/wheat/wheat025ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 227,
+    "path": "/kaggle/input/kag2/wheat/wheat009ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 228,
+    "path": "/kaggle/input/kag2/wheat/wheat033ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 229,
+    "path": "/kaggle/input/kag2/wheat/wheat023ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 230,
+    "path": "/kaggle/input/kag2/wheat/wheat012ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 231,
+    "path": "/kaggle/input/kag2/wheat/wheat028arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 232,
+    "path": "/kaggle/input/kag2/wheat/wheat030ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 233,
+    "path": "/kaggle/input/kag2/wheat/wheat008arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 234,
+    "path": "/kaggle/input/kag2/wheat/wheat005a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 235,
+    "path": "/kaggle/input/kag2/wheat/wheat030ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 236,
+    "path": "/kaggle/input/kag2/wheat/wheat033ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 237,
+    "path": "/kaggle/input/kag2/wheat/wheat015arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 238,
+    "path": "/kaggle/input/kag2/wheat/wheat017arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 239,
+    "path": "/kaggle/input/kag2/wheat/wheat037ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 240,
+    "path": "/kaggle/input/kag2/wheat/wheat017ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 241,
+    "path": "/kaggle/input/kag2/wheat/wheat013ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 242,
+    "path": "/kaggle/input/kag2/wheat/wheat039ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 243,
+    "path": "/kaggle/input/kag2/wheat/wheat027ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 244,
+    "path": "/kaggle/input/kag2/wheat/wheat015a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 245,
+    "path": "/kaggle/input/kag2/wheat/wheat003rot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 246,
+    "path": "/kaggle/input/kag2/wheat/wheat015ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 247,
+    "path": "/kaggle/input/kag2/wheat/wheat010arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 248,
+    "path": "/kaggle/input/kag2/wheat/wheat017ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 249,
+    "path": "/kaggle/input/kag2/wheat/wheat019arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 250,
+    "path": "/kaggle/input/kag2/wheat/wheat032arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 251,
+    "path": "/kaggle/input/kag2/wheat/wheat031a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 252,
+    "path": "/kaggle/input/kag2/wheat/wheat007ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 253,
+    "path": "/kaggle/input/kag2/wheat/wheat025a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 254,
+    "path": "/kaggle/input/kag2/wheat/wheat024ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 255,
+    "path": "/kaggle/input/kag2/wheat/wheat0001ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 256,
+    "path": "/kaggle/input/kag2/wheat/wheat011hs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 257,
+    "path": "/kaggle/input/kag2/wheat/wheat008ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 258,
+    "path": "/kaggle/input/kag2/wheat/wheat028ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 259,
+    "path": "/kaggle/input/kag2/wheat/wheat032a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 260,
+    "path": "/kaggle/input/kag2/wheat/wheat038arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 261,
+    "path": "/kaggle/input/kag2/wheat/wheat039a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 262,
+    "path": "/kaggle/input/kag2/wheat/wheat035ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 263,
+    "path": "/kaggle/input/kag2/wheat/wheat014a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 264,
+    "path": "/kaggle/input/kag2/wheat/wheat012a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 265,
+    "path": "/kaggle/input/kag2/wheat/wheat040a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 266,
+    "path": "/kaggle/input/kag2/wheat/wheat020ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 267,
+    "path": "/kaggle/input/kag2/wheat/wheat022ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 268,
+    "path": "/kaggle/input/kag2/wheat/wheat038ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 269,
+    "path": "/kaggle/input/kag2/wheat/wheat018arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 270,
+    "path": "/kaggle/input/kag2/wheat/wheat031arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 271,
+    "path": "/kaggle/input/kag2/wheat/wheat033arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 272,
+    "path": "/kaggle/input/kag2/wheat/wheat005ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 273,
+    "path": "/kaggle/input/kag2/wheat/wheat038ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 274,
+    "path": "/kaggle/input/kag2/wheat/wheat036a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 275,
+    "path": "/kaggle/input/kag2/wheat/wheat008a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 276,
+    "path": "/kaggle/input/kag2/wheat/wheat036ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 277,
+    "path": "/kaggle/input/kag2/wheat/wheat008ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 278,
+    "path": "/kaggle/input/kag2/wheat/wheat030arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 279,
+    "path": "/kaggle/input/kag2/wheat/wheat0004arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 280,
+    "path": "/kaggle/input/kag2/wheat/wheat012ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 281,
+    "path": "/kaggle/input/kag2/wheat/wheat006a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 282,
+    "path": "/kaggle/input/kag2/wheat/wheat005ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 283,
+    "path": "/kaggle/input/kag2/wheat/wheat034ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 284,
+    "path": "/kaggle/input/kag2/wheat/wheat025ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 285,
+    "path": "/kaggle/input/kag2/wheat/wheat034arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 286,
+    "path": "/kaggle/input/kag2/wheat/wheat022a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 287,
+    "path": "/kaggle/input/kag2/wheat/wheat029ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 288,
+    "path": "/kaggle/input/kag2/wheat/wheat0002arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 289,
+    "path": "/kaggle/input/kag2/wheat/wheat027a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 290,
+    "path": "/kaggle/input/kag2/wheat/wheat010ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 291,
+    "path": "/kaggle/input/kag2/wheat/wheat036ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 292,
+    "path": "/kaggle/input/kag2/wheat/wheat027ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 293,
+    "path": "/kaggle/input/kag2/wheat/wheat023ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 294,
+    "path": "/kaggle/input/kag2/wheat/wheat035arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 295,
+    "path": "/kaggle/input/kag2/wheat/wheat033a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 296,
+    "path": "/kaggle/input/kag2/wheat/wheat024arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 297,
+    "path": "/kaggle/input/kag2/wheat/wheat023arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 298,
+    "path": "/kaggle/input/kag2/wheat/wheat026ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 299,
+    "path": "/kaggle/input/kag2/wheat/wheat016arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 300,
+    "path": "/kaggle/input/kag2/wheat/wheat010ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 301,
+    "path": "/kaggle/input/kag2/wheat/wheat022ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 302,
+    "path": "/kaggle/input/kag2/wheat/wheat010a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 303,
+    "path": "/kaggle/input/kag2/wheat/wheat028ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 304,
+    "path": "/kaggle/input/kag2/wheat/wheat019a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 305,
+    "path": "/kaggle/input/kag2/wheat/wheat035ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 306,
+    "path": "/kaggle/input/kag2/wheat/wheat028a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 307,
+    "path": "/kaggle/input/kag2/wheat/wheat029a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 308,
+    "path": "/kaggle/input/kag2/wheat/wheat024a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 309,
+    "path": "/kaggle/input/kag2/wheat/wheat003.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 310,
+    "path": "/kaggle/input/kag2/wheat/wheat032ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 311,
+    "path": "/kaggle/input/kag2/wheat/wheat011rot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 312,
+    "path": "/kaggle/input/kag2/wheat/wheat021ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 313,
+    "path": "/kaggle/input/kag2/wheat/wheat014ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 314,
+    "path": "/kaggle/input/kag2/wheat/wheat0002a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 315,
+    "path": "/kaggle/input/kag2/wheat/wheat037arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 316,
+    "path": "/kaggle/input/kag2/wheat/wheat004arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 317,
+    "path": "/kaggle/input/kag2/wheat/wheat020ahs.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 318,
+    "path": "/kaggle/input/kag2/wheat/wheat0001ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 319,
+    "path": "/kaggle/input/kag2/wheat/wheat006arot.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 320,
+    "path": "/kaggle/input/kag2/wheat/wheat0002ahf.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 321,
+    "path": "/kaggle/input/kag2/jute/jute025ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 322,
+    "path": "/kaggle/input/kag2/jute/jute017arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 323,
+    "path": "/kaggle/input/kag2/jute/jute001ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 324,
+    "path": "/kaggle/input/kag2/jute/jute032arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 325,
+    "path": "/kaggle/input/kag2/jute/jute003a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 326,
+    "path": "/kaggle/input/kag2/jute/jute002ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 327,
+    "path": "/kaggle/input/kag2/jute/jute031arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 328,
+    "path": "/kaggle/input/kag2/jute/jute033a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 329,
+    "path": "/kaggle/input/kag2/jute/jute028a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 330,
+    "path": "/kaggle/input/kag2/jute/jute026ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 331,
+    "path": "/kaggle/input/kag2/jute/jute040arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 332,
+    "path": "/kaggle/input/kag2/jute/jute029ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 333,
+    "path": "/kaggle/input/kag2/jute/jute024ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 334,
+    "path": "/kaggle/input/kag2/jute/jute028arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 335,
+    "path": "/kaggle/input/kag2/jute/jute016ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 336,
+    "path": "/kaggle/input/kag2/jute/jute018a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 337,
+    "path": "/kaggle/input/kag2/jute/jute005ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 338,
+    "path": "/kaggle/input/kag2/jute/jute007ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 339,
+    "path": "/kaggle/input/kag2/jute/jute034a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 340,
+    "path": "/kaggle/input/kag2/jute/jute023a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 341,
+    "path": "/kaggle/input/kag2/jute/jute020arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 342,
+    "path": "/kaggle/input/kag2/jute/jute019arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 343,
+    "path": "/kaggle/input/kag2/jute/jute005arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 344,
+    "path": "/kaggle/input/kag2/jute/jute040ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 345,
+    "path": "/kaggle/input/kag2/jute/jute004ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 346,
+    "path": "/kaggle/input/kag2/jute/jute029arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 347,
+    "path": "/kaggle/input/kag2/jute/jute033arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 348,
+    "path": "/kaggle/input/kag2/jute/jute039ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 349,
+    "path": "/kaggle/input/kag2/jute/jute022a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 350,
+    "path": "/kaggle/input/kag2/jute/jute011ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 351,
+    "path": "/kaggle/input/kag2/jute/jute018arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 352,
+    "path": "/kaggle/input/kag2/jute/jute018ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 353,
+    "path": "/kaggle/input/kag2/jute/jute003ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 354,
+    "path": "/kaggle/input/kag2/jute/jute014ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 355,
+    "path": "/kaggle/input/kag2/jute/jute002a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 356,
+    "path": "/kaggle/input/kag2/jute/jute025ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 357,
+    "path": "/kaggle/input/kag2/jute/jute017ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 358,
+    "path": "/kaggle/input/kag2/jute/jute026a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 359,
+    "path": "/kaggle/input/kag2/jute/jute008ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 360,
+    "path": "/kaggle/input/kag2/jute/jute011ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 361,
+    "path": "/kaggle/input/kag2/jute/jute030a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 362,
+    "path": "/kaggle/input/kag2/jute/jute031ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 363,
+    "path": "/kaggle/input/kag2/jute/jute022arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 364,
+    "path": "/kaggle/input/kag2/jute/jute039arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 365,
+    "path": "/kaggle/input/kag2/jute/jute006a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 366,
+    "path": "/kaggle/input/kag2/jute/jute022ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 367,
+    "path": "/kaggle/input/kag2/jute/jute019ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 368,
+    "path": "/kaggle/input/kag2/jute/jute010ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 369,
+    "path": "/kaggle/input/kag2/jute/jute008arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 370,
+    "path": "/kaggle/input/kag2/jute/jute032ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 371,
+    "path": "/kaggle/input/kag2/jute/jute031a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 372,
+    "path": "/kaggle/input/kag2/jute/jute037ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 373,
+    "path": "/kaggle/input/kag2/jute/jute003ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 374,
+    "path": "/kaggle/input/kag2/jute/jute007a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 375,
+    "path": "/kaggle/input/kag2/jute/jute004ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 376,
+    "path": "/kaggle/input/kag2/jute/jute020ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 377,
+    "path": "/kaggle/input/kag2/jute/jute021arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 378,
+    "path": "/kaggle/input/kag2/jute/jute023arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 379,
+    "path": "/kaggle/input/kag2/jute/jute010ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 380,
+    "path": "/kaggle/input/kag2/jute/jute038ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 381,
+    "path": "/kaggle/input/kag2/jute/jute037arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 382,
+    "path": "/kaggle/input/kag2/jute/jute016arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 383,
+    "path": "/kaggle/input/kag2/jute/jute009arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 384,
+    "path": "/kaggle/input/kag2/jute/jute031ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 385,
+    "path": "/kaggle/input/kag2/jute/jute030arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 386,
+    "path": "/kaggle/input/kag2/jute/jute027ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 387,
+    "path": "/kaggle/input/kag2/jute/jute029ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 388,
+    "path": "/kaggle/input/kag2/jute/jute034ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 389,
+    "path": "/kaggle/input/kag2/jute/jute036arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 390,
+    "path": "/kaggle/input/kag2/jute/jute030ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 391,
+    "path": "/kaggle/input/kag2/jute/jute016ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 392,
+    "path": "/kaggle/input/kag2/jute/jute018ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 393,
+    "path": "/kaggle/input/kag2/jute/jute026ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 394,
+    "path": "/kaggle/input/kag2/jute/jute023ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 395,
+    "path": "/kaggle/input/kag2/jute/jute009a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 396,
+    "path": "/kaggle/input/kag2/jute/jute012a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 397,
+    "path": "/kaggle/input/kag2/jute/jute027arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 398,
+    "path": "/kaggle/input/kag2/jute/jute023ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 399,
+    "path": "/kaggle/input/kag2/jute/jute022ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 400,
+    "path": "/kaggle/input/kag2/jute/jute032ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 401,
+    "path": "/kaggle/input/kag2/jute/jute015ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 402,
+    "path": "/kaggle/input/kag2/jute/jute013ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 403,
+    "path": "/kaggle/input/kag2/jute/jute014a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 404,
+    "path": "/kaggle/input/kag2/jute/jute027a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 405,
+    "path": "/kaggle/input/kag2/jute/jute014arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 406,
+    "path": "/kaggle/input/kag2/jute/jute015arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 407,
+    "path": "/kaggle/input/kag2/jute/jute003arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 408,
+    "path": "/kaggle/input/kag2/jute/jute035a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 409,
+    "path": "/kaggle/input/kag2/jute/jute001a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 410,
+    "path": "/kaggle/input/kag2/jute/jute002arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 411,
+    "path": "/kaggle/input/kag2/jute/jute035ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 412,
+    "path": "/kaggle/input/kag2/jute/jute033ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 413,
+    "path": "/kaggle/input/kag2/jute/jute033ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 414,
+    "path": "/kaggle/input/kag2/jute/jute013a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 415,
+    "path": "/kaggle/input/kag2/jute/jute020ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 416,
+    "path": "/kaggle/input/kag2/jute/jute006ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 417,
+    "path": "/kaggle/input/kag2/jute/jute007arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 418,
+    "path": "/kaggle/input/kag2/jute/jute032a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 419,
+    "path": "/kaggle/input/kag2/jute/jute011arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 420,
+    "path": "/kaggle/input/kag2/jute/jute001ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 421,
+    "path": "/kaggle/input/kag2/jute/jute004a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 422,
+    "path": "/kaggle/input/kag2/jute/jute024a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 423,
+    "path": "/kaggle/input/kag2/jute/jute021ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 424,
+    "path": "/kaggle/input/kag2/jute/jute024ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 425,
+    "path": "/kaggle/input/kag2/jute/jute036ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 426,
+    "path": "/kaggle/input/kag2/jute/jute009ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 427,
+    "path": "/kaggle/input/kag2/jute/jute016a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 428,
+    "path": "/kaggle/input/kag2/jute/jute021a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 429,
+    "path": "/kaggle/input/kag2/jute/jute038ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 430,
+    "path": "/kaggle/input/kag2/jute/jute004arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 431,
+    "path": "/kaggle/input/kag2/jute/jute037a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 432,
+    "path": "/kaggle/input/kag2/jute/jute035arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 433,
+    "path": "/kaggle/input/kag2/jute/jute038a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 434,
+    "path": "/kaggle/input/kag2/jute/jute012ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 435,
+    "path": "/kaggle/input/kag2/jute/jute029a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 436,
+    "path": "/kaggle/input/kag2/jute/jute013arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 437,
+    "path": "/kaggle/input/kag2/jute/jute028ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 438,
+    "path": "/kaggle/input/kag2/jute/jute027ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 439,
+    "path": "/kaggle/input/kag2/jute/jute026arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 440,
+    "path": "/kaggle/input/kag2/jute/jute025arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 441,
+    "path": "/kaggle/input/kag2/jute/jute024arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 442,
+    "path": "/kaggle/input/kag2/jute/jute006arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 443,
+    "path": "/kaggle/input/kag2/jute/jute014ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 444,
+    "path": "/kaggle/input/kag2/jute/jute005a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 445,
+    "path": "/kaggle/input/kag2/jute/jute036a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 446,
+    "path": "/kaggle/input/kag2/jute/jute039ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 447,
+    "path": "/kaggle/input/kag2/jute/jute037ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 448,
+    "path": "/kaggle/input/kag2/jute/jute021ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 449,
+    "path": "/kaggle/input/kag2/jute/jute025a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 450,
+    "path": "/kaggle/input/kag2/jute/jute006ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 451,
+    "path": "/kaggle/input/kag2/jute/jute011a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 452,
+    "path": "/kaggle/input/kag2/jute/jute017ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 453,
+    "path": "/kaggle/input/kag2/jute/jute002ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 454,
+    "path": "/kaggle/input/kag2/jute/jute040a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 455,
+    "path": "/kaggle/input/kag2/jute/jute035ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 456,
+    "path": "/kaggle/input/kag2/jute/jute039a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 457,
+    "path": "/kaggle/input/kag2/jute/jute015ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 458,
+    "path": "/kaggle/input/kag2/jute/jute009ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 459,
+    "path": "/kaggle/input/kag2/jute/jute028ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 460,
+    "path": "/kaggle/input/kag2/jute/jute007ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 461,
+    "path": "/kaggle/input/kag2/jute/jute034arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 462,
+    "path": "/kaggle/input/kag2/jute/jute017a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 463,
+    "path": "/kaggle/input/kag2/jute/jute008a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 464,
+    "path": "/kaggle/input/kag2/jute/jute034ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 465,
+    "path": "/kaggle/input/kag2/jute/jute010arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 466,
+    "path": "/kaggle/input/kag2/jute/jute015a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 467,
+    "path": "/kaggle/input/kag2/jute/jute008ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 468,
+    "path": "/kaggle/input/kag2/jute/jute019ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 469,
+    "path": "/kaggle/input/kag2/jute/jute010a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 470,
+    "path": "/kaggle/input/kag2/jute/jute012ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 471,
+    "path": "/kaggle/input/kag2/jute/jute005ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 472,
+    "path": "/kaggle/input/kag2/jute/jute038arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 473,
+    "path": "/kaggle/input/kag2/jute/jute030ahf.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 474,
+    "path": "/kaggle/input/kag2/jute/jute040ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 475,
+    "path": "/kaggle/input/kag2/jute/jute012arot.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 476,
+    "path": "/kaggle/input/kag2/jute/jute020a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 477,
+    "path": "/kaggle/input/kag2/jute/jute036ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 478,
+    "path": "/kaggle/input/kag2/jute/jute019a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 479,
+    "path": "/kaggle/input/kag2/jute/jute013ahs.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 480,
+    "path": "/kaggle/input/kag2/maize/maize020ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 481,
+    "path": "/kaggle/input/kag2/maize/maize035ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 482,
+    "path": "/kaggle/input/kag2/maize/maize021ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 483,
+    "path": "/kaggle/input/kag2/maize/maize022arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 484,
+    "path": "/kaggle/input/kag2/maize/maize014hs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 485,
+    "path": "/kaggle/input/kag2/maize/maize011ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 486,
+    "path": "/kaggle/input/kag2/maize/maize008a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 487,
+    "path": "/kaggle/input/kag2/maize/maize016ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 488,
+    "path": "/kaggle/input/kag2/maize/maize021ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 489,
+    "path": "/kaggle/input/kag2/maize/maize011ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 490,
+    "path": "/kaggle/input/kag2/maize/maize039a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 491,
+    "path": "/kaggle/input/kag2/maize/maize031arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 492,
+    "path": "/kaggle/input/kag2/maize/maize028arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 493,
+    "path": "/kaggle/input/kag2/maize/maize029arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 494,
+    "path": "/kaggle/input/kag2/maize/maize037ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 495,
+    "path": "/kaggle/input/kag2/maize/maize020ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 496,
+    "path": "/kaggle/input/kag2/maize/maize007hs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 497,
+    "path": "/kaggle/input/kag2/maize/maize031ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 498,
+    "path": "/kaggle/input/kag2/maize/maize017ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 499,
+    "path": "/kaggle/input/kag2/maize/maize019a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 500,
+    "path": "/kaggle/input/kag2/maize/maize032a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 501,
+    "path": "/kaggle/input/kag2/maize/maize018a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 502,
+    "path": "/kaggle/input/kag2/maize/maize013ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 503,
+    "path": "/kaggle/input/kag2/maize/maize024arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 504,
+    "path": "/kaggle/input/kag2/maize/maize001ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 505,
+    "path": "/kaggle/input/kag2/maize/maize015ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 506,
+    "path": "/kaggle/input/kag2/maize/maize003ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 507,
+    "path": "/kaggle/input/kag2/maize/maize004ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 508,
+    "path": "/kaggle/input/kag2/maize/maize025arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 509,
+    "path": "/kaggle/input/kag2/maize/maize035arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 510,
+    "path": "/kaggle/input/kag2/maize/maize037a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 511,
+    "path": "/kaggle/input/kag2/maize/maize019ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 512,
+    "path": "/kaggle/input/kag2/maize/maize030ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 513,
+    "path": "/kaggle/input/kag2/maize/maize005arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 514,
+    "path": "/kaggle/input/kag2/maize/maize019arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 515,
+    "path": "/kaggle/input/kag2/maize/maize027ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 516,
+    "path": "/kaggle/input/kag2/maize/maize038ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 517,
+    "path": "/kaggle/input/kag2/maize/maize036a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 518,
+    "path": "/kaggle/input/kag2/maize/maize016ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 519,
+    "path": "/kaggle/input/kag2/maize/maize002arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 520,
+    "path": "/kaggle/input/kag2/maize/maize015arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 521,
+    "path": "/kaggle/input/kag2/maize/maize014hf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 522,
+    "path": "/kaggle/input/kag2/maize/maize009a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 523,
+    "path": "/kaggle/input/kag2/maize/maize012ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 524,
+    "path": "/kaggle/input/kag2/maize/maize039arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 525,
+    "path": "/kaggle/input/kag2/maize/maize032ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 526,
+    "path": "/kaggle/input/kag2/maize/maize023a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 527,
+    "path": "/kaggle/input/kag2/maize/maize009arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 528,
+    "path": "/kaggle/input/kag2/maize/maize020arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 529,
+    "path": "/kaggle/input/kag2/maize/maize034a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 530,
+    "path": "/kaggle/input/kag2/maize/maize012arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 531,
+    "path": "/kaggle/input/kag2/maize/maize026ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 532,
+    "path": "/kaggle/input/kag2/maize/maize006rot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 533,
+    "path": "/kaggle/input/kag2/maize/maize025ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 534,
+    "path": "/kaggle/input/kag2/maize/maize027a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 535,
+    "path": "/kaggle/input/kag2/maize/maize015ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 536,
+    "path": "/kaggle/input/kag2/maize/maize033ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 537,
+    "path": "/kaggle/input/kag2/maize/maize017a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 538,
+    "path": "/kaggle/input/kag2/maize/maize035a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 539,
+    "path": "/kaggle/input/kag2/maize/maize028ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 540,
+    "path": "/kaggle/input/kag2/maize/maize010a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 541,
+    "path": "/kaggle/input/kag2/maize/maize020a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 542,
+    "path": "/kaggle/input/kag2/maize/maize031ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 543,
+    "path": "/kaggle/input/kag2/maize/maize022ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 544,
+    "path": "/kaggle/input/kag2/maize/maize030ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 545,
+    "path": "/kaggle/input/kag2/maize/maize033ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 546,
+    "path": "/kaggle/input/kag2/maize/maize007.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 547,
+    "path": "/kaggle/input/kag2/maize/maize002ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 548,
+    "path": "/kaggle/input/kag2/maize/maize039ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 549,
+    "path": "/kaggle/input/kag2/maize/maize012ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 550,
+    "path": "/kaggle/input/kag2/maize/maize018ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 551,
+    "path": "/kaggle/input/kag2/maize/maize021a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 552,
+    "path": "/kaggle/input/kag2/maize/maize029a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 553,
+    "path": "/kaggle/input/kag2/maize/maize035ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 554,
+    "path": "/kaggle/input/kag2/maize/maize033arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 555,
+    "path": "/kaggle/input/kag2/maize/maize025ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 556,
+    "path": "/kaggle/input/kag2/maize/maize018arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 557,
+    "path": "/kaggle/input/kag2/maize/maize009ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 558,
+    "path": "/kaggle/input/kag2/maize/maize024a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 559,
+    "path": "/kaggle/input/kag2/maize/maize008arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 560,
+    "path": "/kaggle/input/kag2/maize/maize024ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 561,
+    "path": "/kaggle/input/kag2/maize/maize018ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 562,
+    "path": "/kaggle/input/kag2/maize/maize040arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 563,
+    "path": "/kaggle/input/kag2/maize/maize038arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 564,
+    "path": "/kaggle/input/kag2/maize/maize002a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 565,
+    "path": "/kaggle/input/kag2/maize/maize024ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 566,
+    "path": "/kaggle/input/kag2/maize/maize011a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 567,
+    "path": "/kaggle/input/kag2/maize/maize023arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 568,
+    "path": "/kaggle/input/kag2/maize/maize004ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 569,
+    "path": "/kaggle/input/kag2/maize/maize030a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 570,
+    "path": "/kaggle/input/kag2/maize/maize030arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 571,
+    "path": "/kaggle/input/kag2/maize/maize032ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 572,
+    "path": "/kaggle/input/kag2/maize/maize034ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 573,
+    "path": "/kaggle/input/kag2/maize/maize005ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 574,
+    "path": "/kaggle/input/kag2/maize/maize006.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 575,
+    "path": "/kaggle/input/kag2/maize/maize032arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 576,
+    "path": "/kaggle/input/kag2/maize/maize006hf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 577,
+    "path": "/kaggle/input/kag2/maize/maize023ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 578,
+    "path": "/kaggle/input/kag2/maize/maize028ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 579,
+    "path": "/kaggle/input/kag2/maize/maize034ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 580,
+    "path": "/kaggle/input/kag2/maize/maize002ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 581,
+    "path": "/kaggle/input/kag2/maize/maize039ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 582,
+    "path": "/kaggle/input/kag2/maize/maize016a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 583,
+    "path": "/kaggle/input/kag2/maize/maize025a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 584,
+    "path": "/kaggle/input/kag2/maize/maize009ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 585,
+    "path": "/kaggle/input/kag2/maize/maize005a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 586,
+    "path": "/kaggle/input/kag2/maize/maize031a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 587,
+    "path": "/kaggle/input/kag2/maize/maize026a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 588,
+    "path": "/kaggle/input/kag2/maize/maize040ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 589,
+    "path": "/kaggle/input/kag2/maize/maize003a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 590,
+    "path": "/kaggle/input/kag2/maize/maize036ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 591,
+    "path": "/kaggle/input/kag2/maize/maize036ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 592,
+    "path": "/kaggle/input/kag2/maize/maize013a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 593,
+    "path": "/kaggle/input/kag2/maize/maize026arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 594,
+    "path": "/kaggle/input/kag2/maize/maize007hf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 595,
+    "path": "/kaggle/input/kag2/maize/maize013arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 596,
+    "path": "/kaggle/input/kag2/maize/maize005ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 597,
+    "path": "/kaggle/input/kag2/maize/maize040ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 598,
+    "path": "/kaggle/input/kag2/maize/maize006hs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 599,
+    "path": "/kaggle/input/kag2/maize/maize014.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 600,
+    "path": "/kaggle/input/kag2/maize/maize034arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 601,
+    "path": "/kaggle/input/kag2/maize/maize026ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 602,
+    "path": "/kaggle/input/kag2/maize/maize010ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 603,
+    "path": "/kaggle/input/kag2/maize/maize028a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 604,
+    "path": "/kaggle/input/kag2/maize/maize001arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 605,
+    "path": "/kaggle/input/kag2/maize/maize003ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 606,
+    "path": "/kaggle/input/kag2/maize/maize037ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 607,
+    "path": "/kaggle/input/kag2/maize/maize001a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 608,
+    "path": "/kaggle/input/kag2/maize/maize014rot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 609,
+    "path": "/kaggle/input/kag2/maize/maize001ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 610,
+    "path": "/kaggle/input/kag2/maize/maize022ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 611,
+    "path": "/kaggle/input/kag2/maize/maize015a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 612,
+    "path": "/kaggle/input/kag2/maize/maize017arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 613,
+    "path": "/kaggle/input/kag2/maize/maize013ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 614,
+    "path": "/kaggle/input/kag2/maize/maize038ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 615,
+    "path": "/kaggle/input/kag2/maize/maize033a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 616,
+    "path": "/kaggle/input/kag2/maize/maize016arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 617,
+    "path": "/kaggle/input/kag2/maize/maize029ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 618,
+    "path": "/kaggle/input/kag2/maize/maize027ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 619,
+    "path": "/kaggle/input/kag2/maize/maize029ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 620,
+    "path": "/kaggle/input/kag2/maize/maize012a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 621,
+    "path": "/kaggle/input/kag2/maize/maize022a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 622,
+    "path": "/kaggle/input/kag2/maize/maize007rot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 623,
+    "path": "/kaggle/input/kag2/maize/maize010arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 624,
+    "path": "/kaggle/input/kag2/maize/maize019ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 625,
+    "path": "/kaggle/input/kag2/maize/maize017ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 626,
+    "path": "/kaggle/input/kag2/maize/maize027arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 627,
+    "path": "/kaggle/input/kag2/maize/maize021arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 628,
+    "path": "/kaggle/input/kag2/maize/maize038a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 629,
+    "path": "/kaggle/input/kag2/maize/maize008ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 630,
+    "path": "/kaggle/input/kag2/maize/maize023ahf.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 631,
+    "path": "/kaggle/input/kag2/maize/maize010ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 632,
+    "path": "/kaggle/input/kag2/maize/maize011arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 633,
+    "path": "/kaggle/input/kag2/maize/maize008ahs.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 634,
+    "path": "/kaggle/input/kag2/maize/maize004arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 635,
+    "path": "/kaggle/input/kag2/maize/maize004a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 636,
+    "path": "/kaggle/input/kag2/maize/maize003arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 637,
+    "path": "/kaggle/input/kag2/maize/maize037arot.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 638,
+    "path": "/kaggle/input/kag2/maize/maize040a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 639,
+    "path": "/kaggle/input/kag2/rice/rice024ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 640,
+    "path": "/kaggle/input/kag2/rice/rice025arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 641,
+    "path": "/kaggle/input/kag2/rice/rice002a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 642,
+    "path": "/kaggle/input/kag2/rice/rice023arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 643,
+    "path": "/kaggle/input/kag2/rice/rice006a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 644,
+    "path": "/kaggle/input/kag2/rice/rice018ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 645,
+    "path": "/kaggle/input/kag2/rice/rice008a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 646,
+    "path": "/kaggle/input/kag2/rice/rice013ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 647,
+    "path": "/kaggle/input/kag2/rice/rice037arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 648,
+    "path": "/kaggle/input/kag2/rice/rice020ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 649,
+    "path": "/kaggle/input/kag2/rice/rice027ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 650,
+    "path": "/kaggle/input/kag2/rice/rice033ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 651,
+    "path": "/kaggle/input/kag2/rice/rice039ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 652,
+    "path": "/kaggle/input/kag2/rice/rice010arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 653,
+    "path": "/kaggle/input/kag2/rice/rice033a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 654,
+    "path": "/kaggle/input/kag2/rice/rice017a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 655,
+    "path": "/kaggle/input/kag2/rice/rice037a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 656,
+    "path": "/kaggle/input/kag2/rice/rice001ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 657,
+    "path": "/kaggle/input/kag2/rice/rice010ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 658,
+    "path": "/kaggle/input/kag2/rice/rice037ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 659,
+    "path": "/kaggle/input/kag2/rice/rice014arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 660,
+    "path": "/kaggle/input/kag2/rice/rice011ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 661,
+    "path": "/kaggle/input/kag2/rice/rice024a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 662,
+    "path": "/kaggle/input/kag2/rice/rice019a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 663,
+    "path": "/kaggle/input/kag2/rice/rice035ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 664,
+    "path": "/kaggle/input/kag2/rice/rice001ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 665,
+    "path": "/kaggle/input/kag2/rice/rice002ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 666,
+    "path": "/kaggle/input/kag2/rice/rice012ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 667,
+    "path": "/kaggle/input/kag2/rice/rice013a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 668,
+    "path": "/kaggle/input/kag2/rice/rice012a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 669,
+    "path": "/kaggle/input/kag2/rice/rice015ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 670,
+    "path": "/kaggle/input/kag2/rice/rice033ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 671,
+    "path": "/kaggle/input/kag2/rice/rice036arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 672,
+    "path": "/kaggle/input/kag2/rice/rice009ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 673,
+    "path": "/kaggle/input/kag2/rice/rice011a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 674,
+    "path": "/kaggle/input/kag2/rice/rice005arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 675,
+    "path": "/kaggle/input/kag2/rice/rice026ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 676,
+    "path": "/kaggle/input/kag2/rice/rice021a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 677,
+    "path": "/kaggle/input/kag2/rice/rice022a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 678,
+    "path": "/kaggle/input/kag2/rice/rice024arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 679,
+    "path": "/kaggle/input/kag2/rice/rice034ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 680,
+    "path": "/kaggle/input/kag2/rice/rice005ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 681,
+    "path": "/kaggle/input/kag2/rice/rice036a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 682,
+    "path": "/kaggle/input/kag2/rice/rice012ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 683,
+    "path": "/kaggle/input/kag2/rice/rice001a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 684,
+    "path": "/kaggle/input/kag2/rice/rice028ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 685,
+    "path": "/kaggle/input/kag2/rice/rice031ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 686,
+    "path": "/kaggle/input/kag2/rice/rice029arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 687,
+    "path": "/kaggle/input/kag2/rice/rice005a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 688,
+    "path": "/kaggle/input/kag2/rice/rice007a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 689,
+    "path": "/kaggle/input/kag2/rice/rice029a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 690,
+    "path": "/kaggle/input/kag2/rice/rice003arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 691,
+    "path": "/kaggle/input/kag2/rice/rice031arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 692,
+    "path": "/kaggle/input/kag2/rice/rice004arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 693,
+    "path": "/kaggle/input/kag2/rice/rice007arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 694,
+    "path": "/kaggle/input/kag2/rice/rice007ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 695,
+    "path": "/kaggle/input/kag2/rice/rice040ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 696,
+    "path": "/kaggle/input/kag2/rice/rice028a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 697,
+    "path": "/kaggle/input/kag2/rice/rice014a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 698,
+    "path": "/kaggle/input/kag2/rice/rice038arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 699,
+    "path": "/kaggle/input/kag2/rice/rice002ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 700,
+    "path": "/kaggle/input/kag2/rice/rice019ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 701,
+    "path": "/kaggle/input/kag2/rice/rice036ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 702,
+    "path": "/kaggle/input/kag2/rice/rice003a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 703,
+    "path": "/kaggle/input/kag2/rice/rice029ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 704,
+    "path": "/kaggle/input/kag2/rice/rice038a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 705,
+    "path": "/kaggle/input/kag2/rice/rice004ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 706,
+    "path": "/kaggle/input/kag2/rice/rice023a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 707,
+    "path": "/kaggle/input/kag2/rice/rice039a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 708,
+    "path": "/kaggle/input/kag2/rice/rice003ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 709,
+    "path": "/kaggle/input/kag2/rice/rice023ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 710,
+    "path": "/kaggle/input/kag2/rice/rice008ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 711,
+    "path": "/kaggle/input/kag2/rice/rice025ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 712,
+    "path": "/kaggle/input/kag2/rice/rice030ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 713,
+    "path": "/kaggle/input/kag2/rice/rice017ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 714,
+    "path": "/kaggle/input/kag2/rice/rice031a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 715,
+    "path": "/kaggle/input/kag2/rice/rice026ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 716,
+    "path": "/kaggle/input/kag2/rice/rice040ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 717,
+    "path": "/kaggle/input/kag2/rice/rice005ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 718,
+    "path": "/kaggle/input/kag2/rice/rice010a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 719,
+    "path": "/kaggle/input/kag2/rice/rice030a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 720,
+    "path": "/kaggle/input/kag2/rice/rice009a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 721,
+    "path": "/kaggle/input/kag2/rice/rice029ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 722,
+    "path": "/kaggle/input/kag2/rice/rice003ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 723,
+    "path": "/kaggle/input/kag2/rice/rice013ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 724,
+    "path": "/kaggle/input/kag2/rice/rice016ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 725,
+    "path": "/kaggle/input/kag2/rice/rice022ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 726,
+    "path": "/kaggle/input/kag2/rice/rice013arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 727,
+    "path": "/kaggle/input/kag2/rice/rice032ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 728,
+    "path": "/kaggle/input/kag2/rice/rice036ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 729,
+    "path": "/kaggle/input/kag2/rice/rice027ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 730,
+    "path": "/kaggle/input/kag2/rice/rice037ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 731,
+    "path": "/kaggle/input/kag2/rice/rice006arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 732,
+    "path": "/kaggle/input/kag2/rice/rice012arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 733,
+    "path": "/kaggle/input/kag2/rice/rice039ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 734,
+    "path": "/kaggle/input/kag2/rice/rice040a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 735,
+    "path": "/kaggle/input/kag2/rice/rice017arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 736,
+    "path": "/kaggle/input/kag2/rice/rice028ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 737,
+    "path": "/kaggle/input/kag2/rice/rice034ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 738,
+    "path": "/kaggle/input/kag2/rice/rice020arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 739,
+    "path": "/kaggle/input/kag2/rice/rice025a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 740,
+    "path": "/kaggle/input/kag2/rice/rice004a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 741,
+    "path": "/kaggle/input/kag2/rice/rice032ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 742,
+    "path": "/kaggle/input/kag2/rice/rice026arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 743,
+    "path": "/kaggle/input/kag2/rice/rice016a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 744,
+    "path": "/kaggle/input/kag2/rice/rice025ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 745,
+    "path": "/kaggle/input/kag2/rice/rice039arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 746,
+    "path": "/kaggle/input/kag2/rice/rice023ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 747,
+    "path": "/kaggle/input/kag2/rice/rice040arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 748,
+    "path": "/kaggle/input/kag2/rice/rice019ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 749,
+    "path": "/kaggle/input/kag2/rice/rice007ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 750,
+    "path": "/kaggle/input/kag2/rice/rice035arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 751,
+    "path": "/kaggle/input/kag2/rice/rice028arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 752,
+    "path": "/kaggle/input/kag2/rice/rice026a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 753,
+    "path": "/kaggle/input/kag2/rice/rice008ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 754,
+    "path": "/kaggle/input/kag2/rice/rice032arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 755,
+    "path": "/kaggle/input/kag2/rice/rice024ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 756,
+    "path": "/kaggle/input/kag2/rice/rice035a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 757,
+    "path": "/kaggle/input/kag2/rice/rice022ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 758,
+    "path": "/kaggle/input/kag2/rice/rice030arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 759,
+    "path": "/kaggle/input/kag2/rice/rice011arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 760,
+    "path": "/kaggle/input/kag2/rice/rice011ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 761,
+    "path": "/kaggle/input/kag2/rice/rice034arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 762,
+    "path": "/kaggle/input/kag2/rice/rice021ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 763,
+    "path": "/kaggle/input/kag2/rice/rice014ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 764,
+    "path": "/kaggle/input/kag2/rice/rice006ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 765,
+    "path": "/kaggle/input/kag2/rice/rice008arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 766,
+    "path": "/kaggle/input/kag2/rice/rice009arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 767,
+    "path": "/kaggle/input/kag2/rice/rice016arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 768,
+    "path": "/kaggle/input/kag2/rice/rice010ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 769,
+    "path": "/kaggle/input/kag2/rice/rice021arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 770,
+    "path": "/kaggle/input/kag2/rice/rice018arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 771,
+    "path": "/kaggle/input/kag2/rice/rice020a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 772,
+    "path": "/kaggle/input/kag2/rice/rice009ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 773,
+    "path": "/kaggle/input/kag2/rice/rice027arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 774,
+    "path": "/kaggle/input/kag2/rice/rice017ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 775,
+    "path": "/kaggle/input/kag2/rice/rice001arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 776,
+    "path": "/kaggle/input/kag2/rice/rice033arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 777,
+    "path": "/kaggle/input/kag2/rice/rice020ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 778,
+    "path": "/kaggle/input/kag2/rice/rice015ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 779,
+    "path": "/kaggle/input/kag2/rice/rice015arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 780,
+    "path": "/kaggle/input/kag2/rice/rice014ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 781,
+    "path": "/kaggle/input/kag2/rice/rice038ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 782,
+    "path": "/kaggle/input/kag2/rice/rice006ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 783,
+    "path": "/kaggle/input/kag2/rice/rice004ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 784,
+    "path": "/kaggle/input/kag2/rice/rice018a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 785,
+    "path": "/kaggle/input/kag2/rice/rice035ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 786,
+    "path": "/kaggle/input/kag2/rice/rice030ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 787,
+    "path": "/kaggle/input/kag2/rice/rice021ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 788,
+    "path": "/kaggle/input/kag2/rice/rice016ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 789,
+    "path": "/kaggle/input/kag2/rice/rice027a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 790,
+    "path": "/kaggle/input/kag2/rice/rice031ahf.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 791,
+    "path": "/kaggle/input/kag2/rice/rice022arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 792,
+    "path": "/kaggle/input/kag2/rice/rice015a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 793,
+    "path": "/kaggle/input/kag2/rice/rice034a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 794,
+    "path": "/kaggle/input/kag2/rice/rice019arot.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 795,
+    "path": "/kaggle/input/kag2/rice/rice038ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 796,
+    "path": "/kaggle/input/kag2/rice/rice018ahs.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 797,
+    "path": "/kaggle/input/kag2/rice/rice032a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 798,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane034a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 799,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane026a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 800,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane014a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 801,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane028a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 802,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane027a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 803,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane009a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 804,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane031a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 805,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane016a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 806,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane0011a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 807,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane030a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 808,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane040a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 809,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane032a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 810,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane037a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 811,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane020a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 812,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane024a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 813,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane035a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 814,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane013a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 815,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane0004a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 816,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane018a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 817,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane025a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 818,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane038a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 819,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane029a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 820,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane019a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 821,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane0003a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 822,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane008a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 823,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane012a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 824,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane017a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 825,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane022a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 826,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane039a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 827,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane023a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 828,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane036a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 829,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane0002a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 830,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane006a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 831,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane033a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 832,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane0001a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 833,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane0010a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 834,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane007a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 835,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane015a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 836,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane021a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 837,
+    "path": "/kaggle/input/crop_images/sugarcane/sugarcane005a.jpeg",
+    "crop": "sugarcane",
+    "croplabel": 3
+  },
+  {
+    "": 838,
+    "path": "/kaggle/input/crop_images/wheat/wheat0004a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 839,
+    "path": "/kaggle/input/crop_images/wheat/wheat017a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 840,
+    "path": "/kaggle/input/crop_images/wheat/wheat004a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 841,
+    "path": "/kaggle/input/crop_images/wheat/wheat023a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 842,
+    "path": "/kaggle/input/crop_images/wheat/wheat037a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 843,
+    "path": "/kaggle/input/crop_images/wheat/wheat018a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 844,
+    "path": "/kaggle/input/crop_images/wheat/wheat011.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 845,
+    "path": "/kaggle/input/crop_images/wheat/wheat030a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 846,
+    "path": "/kaggle/input/crop_images/wheat/wheat009a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 847,
+    "path": "/kaggle/input/crop_images/wheat/wheat038a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 848,
+    "path": "/kaggle/input/crop_images/wheat/wheat016a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 849,
+    "path": "/kaggle/input/crop_images/wheat/wheat007a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 850,
+    "path": "/kaggle/input/crop_images/wheat/wheat026a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 851,
+    "path": "/kaggle/input/crop_images/wheat/wheat035a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 852,
+    "path": "/kaggle/input/crop_images/wheat/wheat034a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 853,
+    "path": "/kaggle/input/crop_images/wheat/wheat020a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 854,
+    "path": "/kaggle/input/crop_images/wheat/wheat021a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 855,
+    "path": "/kaggle/input/crop_images/wheat/wheat0001a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 856,
+    "path": "/kaggle/input/crop_images/wheat/wheat013a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 857,
+    "path": "/kaggle/input/crop_images/wheat/wheat005a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 858,
+    "path": "/kaggle/input/crop_images/wheat/wheat015a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 859,
+    "path": "/kaggle/input/crop_images/wheat/wheat031a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 860,
+    "path": "/kaggle/input/crop_images/wheat/wheat025a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 861,
+    "path": "/kaggle/input/crop_images/wheat/wheat032a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 862,
+    "path": "/kaggle/input/crop_images/wheat/wheat039a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 863,
+    "path": "/kaggle/input/crop_images/wheat/wheat014a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 864,
+    "path": "/kaggle/input/crop_images/wheat/wheat012a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 865,
+    "path": "/kaggle/input/crop_images/wheat/wheat040a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 866,
+    "path": "/kaggle/input/crop_images/wheat/wheat036a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 867,
+    "path": "/kaggle/input/crop_images/wheat/wheat008a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 868,
+    "path": "/kaggle/input/crop_images/wheat/wheat006a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 869,
+    "path": "/kaggle/input/crop_images/wheat/wheat022a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 870,
+    "path": "/kaggle/input/crop_images/wheat/wheat027a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 871,
+    "path": "/kaggle/input/crop_images/wheat/wheat033a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 872,
+    "path": "/kaggle/input/crop_images/wheat/wheat010a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 873,
+    "path": "/kaggle/input/crop_images/wheat/wheat019a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 874,
+    "path": "/kaggle/input/crop_images/wheat/wheat028a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 875,
+    "path": "/kaggle/input/crop_images/wheat/wheat029a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 876,
+    "path": "/kaggle/input/crop_images/wheat/wheat024a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 877,
+    "path": "/kaggle/input/crop_images/wheat/wheat003.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 878,
+    "path": "/kaggle/input/crop_images/wheat/wheat0002a.jpeg",
+    "crop": "wheat",
+    "croplabel": 4
+  },
+  {
+    "": 879,
+    "path": "/kaggle/input/crop_images/jute/jute003a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 880,
+    "path": "/kaggle/input/crop_images/jute/jute033a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 881,
+    "path": "/kaggle/input/crop_images/jute/jute028a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 882,
+    "path": "/kaggle/input/crop_images/jute/jute018a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 883,
+    "path": "/kaggle/input/crop_images/jute/jute034a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 884,
+    "path": "/kaggle/input/crop_images/jute/jute023a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 885,
+    "path": "/kaggle/input/crop_images/jute/jute022a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 886,
+    "path": "/kaggle/input/crop_images/jute/jute002a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 887,
+    "path": "/kaggle/input/crop_images/jute/jute026a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 888,
+    "path": "/kaggle/input/crop_images/jute/jute030a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 889,
+    "path": "/kaggle/input/crop_images/jute/jute006a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 890,
+    "path": "/kaggle/input/crop_images/jute/jute031a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 891,
+    "path": "/kaggle/input/crop_images/jute/jute007a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 892,
+    "path": "/kaggle/input/crop_images/jute/jute009a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 893,
+    "path": "/kaggle/input/crop_images/jute/jute012a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 894,
+    "path": "/kaggle/input/crop_images/jute/jute014a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 895,
+    "path": "/kaggle/input/crop_images/jute/jute027a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 896,
+    "path": "/kaggle/input/crop_images/jute/jute035a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 897,
+    "path": "/kaggle/input/crop_images/jute/jute001a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 898,
+    "path": "/kaggle/input/crop_images/jute/jute013a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 899,
+    "path": "/kaggle/input/crop_images/jute/jute032a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 900,
+    "path": "/kaggle/input/crop_images/jute/jute004a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 901,
+    "path": "/kaggle/input/crop_images/jute/jute024a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 902,
+    "path": "/kaggle/input/crop_images/jute/jute016a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 903,
+    "path": "/kaggle/input/crop_images/jute/jute021a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 904,
+    "path": "/kaggle/input/crop_images/jute/jute037a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 905,
+    "path": "/kaggle/input/crop_images/jute/jute038a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 906,
+    "path": "/kaggle/input/crop_images/jute/jute029a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 907,
+    "path": "/kaggle/input/crop_images/jute/jute005a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 908,
+    "path": "/kaggle/input/crop_images/jute/jute036a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 909,
+    "path": "/kaggle/input/crop_images/jute/jute025a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 910,
+    "path": "/kaggle/input/crop_images/jute/jute011a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 911,
+    "path": "/kaggle/input/crop_images/jute/jute040a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 912,
+    "path": "/kaggle/input/crop_images/jute/jute039a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 913,
+    "path": "/kaggle/input/crop_images/jute/jute017a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 914,
+    "path": "/kaggle/input/crop_images/jute/jute008a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 915,
+    "path": "/kaggle/input/crop_images/jute/jute015a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 916,
+    "path": "/kaggle/input/crop_images/jute/jute010a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 917,
+    "path": "/kaggle/input/crop_images/jute/jute020a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 918,
+    "path": "/kaggle/input/crop_images/jute/jute019a.jpeg",
+    "crop": "jute",
+    "croplabel": 0
+  },
+  {
+    "": 919,
+    "path": "/kaggle/input/crop_images/maize/maize008a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 920,
+    "path": "/kaggle/input/crop_images/maize/maize039a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 921,
+    "path": "/kaggle/input/crop_images/maize/maize019a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 922,
+    "path": "/kaggle/input/crop_images/maize/maize032a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 923,
+    "path": "/kaggle/input/crop_images/maize/maize018a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 924,
+    "path": "/kaggle/input/crop_images/maize/maize037a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 925,
+    "path": "/kaggle/input/crop_images/maize/maize036a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 926,
+    "path": "/kaggle/input/crop_images/maize/maize009a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 927,
+    "path": "/kaggle/input/crop_images/maize/maize023a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 928,
+    "path": "/kaggle/input/crop_images/maize/maize034a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 929,
+    "path": "/kaggle/input/crop_images/maize/maize027a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 930,
+    "path": "/kaggle/input/crop_images/maize/maize017a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 931,
+    "path": "/kaggle/input/crop_images/maize/maize035a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 932,
+    "path": "/kaggle/input/crop_images/maize/maize010a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 933,
+    "path": "/kaggle/input/crop_images/maize/maize020a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 934,
+    "path": "/kaggle/input/crop_images/maize/maize007.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 935,
+    "path": "/kaggle/input/crop_images/maize/maize021a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 936,
+    "path": "/kaggle/input/crop_images/maize/maize029a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 937,
+    "path": "/kaggle/input/crop_images/maize/maize024a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 938,
+    "path": "/kaggle/input/crop_images/maize/maize002a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 939,
+    "path": "/kaggle/input/crop_images/maize/maize011a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 940,
+    "path": "/kaggle/input/crop_images/maize/maize030a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 941,
+    "path": "/kaggle/input/crop_images/maize/maize006.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 942,
+    "path": "/kaggle/input/crop_images/maize/maize016a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 943,
+    "path": "/kaggle/input/crop_images/maize/maize025a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 944,
+    "path": "/kaggle/input/crop_images/maize/maize005a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 945,
+    "path": "/kaggle/input/crop_images/maize/maize031a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 946,
+    "path": "/kaggle/input/crop_images/maize/maize026a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 947,
+    "path": "/kaggle/input/crop_images/maize/maize003a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 948,
+    "path": "/kaggle/input/crop_images/maize/maize013a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 949,
+    "path": "/kaggle/input/crop_images/maize/maize014.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 950,
+    "path": "/kaggle/input/crop_images/maize/maize028a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 951,
+    "path": "/kaggle/input/crop_images/maize/maize001a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 952,
+    "path": "/kaggle/input/crop_images/maize/maize015a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 953,
+    "path": "/kaggle/input/crop_images/maize/maize033a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 954,
+    "path": "/kaggle/input/crop_images/maize/maize012a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 955,
+    "path": "/kaggle/input/crop_images/maize/maize022a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 956,
+    "path": "/kaggle/input/crop_images/maize/maize038a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 957,
+    "path": "/kaggle/input/crop_images/maize/maize004a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 958,
+    "path": "/kaggle/input/crop_images/maize/maize040a.jpeg",
+    "crop": "maize",
+    "croplabel": 1
+  },
+  {
+    "": 959,
+    "path": "/kaggle/input/crop_images/rice/rice002a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 960,
+    "path": "/kaggle/input/crop_images/rice/rice006a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 961,
+    "path": "/kaggle/input/crop_images/rice/rice008a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 962,
+    "path": "/kaggle/input/crop_images/rice/rice033a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 963,
+    "path": "/kaggle/input/crop_images/rice/rice017a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 964,
+    "path": "/kaggle/input/crop_images/rice/rice037a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 965,
+    "path": "/kaggle/input/crop_images/rice/rice024a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 966,
+    "path": "/kaggle/input/crop_images/rice/rice019a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 967,
+    "path": "/kaggle/input/crop_images/rice/rice013a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 968,
+    "path": "/kaggle/input/crop_images/rice/rice012a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 969,
+    "path": "/kaggle/input/crop_images/rice/rice011a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 970,
+    "path": "/kaggle/input/crop_images/rice/rice021a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 971,
+    "path": "/kaggle/input/crop_images/rice/rice022a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 972,
+    "path": "/kaggle/input/crop_images/rice/rice036a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 973,
+    "path": "/kaggle/input/crop_images/rice/rice001a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 974,
+    "path": "/kaggle/input/crop_images/rice/rice005a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 975,
+    "path": "/kaggle/input/crop_images/rice/rice007a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 976,
+    "path": "/kaggle/input/crop_images/rice/rice029a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 977,
+    "path": "/kaggle/input/crop_images/rice/rice028a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 978,
+    "path": "/kaggle/input/crop_images/rice/rice014a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 979,
+    "path": "/kaggle/input/crop_images/rice/rice003a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 980,
+    "path": "/kaggle/input/crop_images/rice/rice038a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 981,
+    "path": "/kaggle/input/crop_images/rice/rice023a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 982,
+    "path": "/kaggle/input/crop_images/rice/rice039a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 983,
+    "path": "/kaggle/input/crop_images/rice/rice031a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 984,
+    "path": "/kaggle/input/crop_images/rice/rice010a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 985,
+    "path": "/kaggle/input/crop_images/rice/rice030a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 986,
+    "path": "/kaggle/input/crop_images/rice/rice009a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 987,
+    "path": "/kaggle/input/crop_images/rice/rice040a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 988,
+    "path": "/kaggle/input/crop_images/rice/rice025a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 989,
+    "path": "/kaggle/input/crop_images/rice/rice004a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 990,
+    "path": "/kaggle/input/crop_images/rice/rice016a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 991,
+    "path": "/kaggle/input/crop_images/rice/rice026a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 992,
+    "path": "/kaggle/input/crop_images/rice/rice035a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 993,
+    "path": "/kaggle/input/crop_images/rice/rice020a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 994,
+    "path": "/kaggle/input/crop_images/rice/rice018a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 995,
+    "path": "/kaggle/input/crop_images/rice/rice027a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 996,
+    "path": "/kaggle/input/crop_images/rice/rice015a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 997,
+    "path": "/kaggle/input/crop_images/rice/rice034a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  },
+  {
+    "": 998,
+    "path": "/kaggle/input/crop_images/rice/rice032a.jpeg",
+    "crop": "rice",
+    "croplabel": 2
+  }
+]

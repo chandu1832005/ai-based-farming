@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    max-width: 400px;
+    padding: 2em;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    text-align: center;
+}
+
+form label {
+    display: block;
+    margin-top: 1em;
+}
+
+form select {
+    width: 100%;
+    padding: 0.5em;
+    margin-top: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#result {
+    text-align: center;
+    margin-top: 1em;
+    font-weight: bold;
+}
+button {
+    width: 100%;
+    padding: 0.5em;
+    background-color: #007bff; /* Blue background for both buttons */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 1em;
+}
+
+button#backButton {
+    width: auto; /* Make the back button width auto */
+    padding: 0.3em 0.5em; /* Smaller padding for a smaller button */
+    margin-top: 1em; /* Add some space above */
+    margin-right: auto; /* Align to the left */
+    display: block; /* Ensure it takes only necessary space */
+}
+
+button#backButton:hover {
+    background-color: #0056b3; /* Same hover effect as the predict button */
+}
+
+button:hover {
+    background-color: #0056b3; /* Hover effect for the predict button */
+}

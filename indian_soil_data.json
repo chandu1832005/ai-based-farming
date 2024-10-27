@@ -1,0 +1,182 @@
+[
+    {
+        "State": "Andhra Pradesh",
+        "pH": 6.8,
+        "Organic_Matter": 2.1,
+        "Sand": 40,
+        "Silt": 30,
+        "Clay": 30,
+        "Soil_Type": "Loam"
+    },
+    {
+        "State": "Arunachal Pradesh",
+        "pH": 5.5,
+        "Organic_Matter": 3.2,
+        "Sand": 35,
+        "Silt": 45,
+        "Clay": 20,
+        "Soil_Type": "Silty Loam"
+    },
+    {
+        "State": "Assam",
+        "pH": 5.8,
+        "Organic_Matter": 2.9,
+        "Sand": 25,
+        "Silt": 50,
+        "Clay": 25,
+        "Soil_Type": "Loam"
+    },
+    {
+        "State": "Bihar",
+        "pH": 7.0,
+        "Organic_Matter": 2.0,
+        "Sand": 30,
+        "Silt": 40,
+        "Clay": 30,
+        "Soil_Type": "Loam"
+    },
+    {
+        "State": "Chhattisgarh",
+        "pH": 6.5,
+        "Organic_Matter": 1.8,
+        "Sand": 45,
+        "Silt": 30,
+        "Clay": 25,
+        "Soil_Type": "Clay Loam"
+    },
+    {
+        "State": "Goa",
+        "pH": 6.2,
+        "Organic_Matter": 3.1,
+        "Sand": 50,
+        "Silt": 20,
+        "Clay": 30,
+        "Soil_Type": "Sandy Loam"
+    },
+    {
+        "State": "Gujarat",
+        "pH": 7.5,
+        "Organic_Matter": 1.2,
+        "Sand": 60,
+        "Silt": 20,
+        "Clay": 20,
+        "Soil_Type": "Sandy"
+    },
+    {
+        "State": "Haryana",
+        "pH": 7.8,
+        "Organic_Matter": 1.5,
+        "Sand": 55,
+        "Silt": 25,
+        "Clay": 20,
+        "Soil_Type": "Loam"
+    },
+    {
+        "State": "Himachal Pradesh",
+        "pH": 6.4,
+        "Organic_Matter": 2.5,
+        "Sand": 35,
+        "Silt": 40,
+        "Clay": 25,
+        "Soil_Type": "Silty Loam"
+    },
+    {
+        "State": "Jharkhand",
+        "pH": 6.0,
+        "Organic_Matter": 2.8,
+        "Sand": 30,
+        "Silt": 35,
+        "Clay": 35,
+        "Soil_Type": "Loam"
+    },
+    {
+        "State": "Karnataka",
+        "pH": 6.7,
+        "Organic_Matter": 2.2,
+        "Sand": 40,
+        "Silt": 30,
+        "Clay": 30,
+        "Soil_Type": "Loam"
+    },
+    {
+        "State": "Kerala",
+        "pH": 5.5,
+        "Organic_Matter": 3.5,
+        "Sand": 40,
+        "Silt": 35,
+        "Clay": 25,
+        "Soil_Type": "Sandy Loam"
+    },
+    {
+        "State": "Madhya Pradesh",
+        "pH": 7.1,
+        "Organic_Matter": 1.9,
+        "Sand": 45,
+        "Silt": 30,
+        "Clay": 25,
+        "Soil_Type": "Clay Loam"
+    },
+    {
+        "State": "Maharashtra",
+        "pH": 6.9,
+        "Organic_Matter": 2.3,
+        "Sand": 40,
+        "Silt": 30,
+        "Clay": 30,
+        "Soil_Type": "Loam"
+    },
+    {
+        "State": "Manipur",
+        "pH": 5.8,
+        "Organic_Matter": 3.1,
+        "Sand": 30,
+        "Silt": 40,
+        "Clay": 30,
+        "Soil_Type": "Loam"
+    },
+    {
+        "State": "Meghalaya",
+        "pH": 5.6,
+        "Organic_Matter": 3.3,
+        "Sand": 35,
+        "Silt": 45,
+        "Clay": 20,
+        "Soil_Type": "Silty Loam"
+    },
+    {
+        "State": "Mizoram",
+        "pH": 5.7,
+        "Organic_Matter": 3.0,
+        "Sand": 40,
+        "Silt": 35,
+        "Clay": 25,
+        "Soil_Type": "Loam"
+    },
+    {
+        "State": "Nagaland",
+        "pH": 5.6,
+        "Organic_Matter": 3.2,
+        "Sand": 35,
+        "Silt": 40,
+        "Clay": 25,
+        "Soil_Type": "Silty Loam"
+    },
+    {
+        "State": "Odisha",
+        "pH": 6.4,
+        "Organic_Matter": 2.7,
+        "Sand": 40,
+        "Silt": 30,
+        "Clay": 30,
+        "Soil_Type": "Loam"
+    },
+    {
+        "State": "Punjab",
+        "pH": 7.6,
+        "Organic_Matter": 1.4,
+        "Sand": 50,
+        "Silt": 30,
+        "Clay": 20,
+        "Soil_Type": "Loam"
+    }
+]
