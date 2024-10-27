@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yield Prediction</title>
+    <link rel="stylesheet" href="yeildpredict.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Crop Yield Prediction</h1>
+        <form id="yieldPredictionForm">
+            <label for="state">State:</label>
+            <select id="state" required>
+                <option value="">--Select State--</option>
+            </select>
+
+            <label for="city">City:</label>
+            <select id="city" required>
+                <option value="">--Select City--</option>
+            </select>
+
+            <label for="crop">Crop:</label>
+            <select id="crop" required>
+                <option value="">--Select Crop--</option>
+            </select>
+
+            <label for="season">Season:</label>
+            <select id="season" required>
+                <option value="">--Select Season--</option>
+            </select>
+
+            <label for="Crop_Year">Crop Year:</label>
+            <input type="number" id="Crop_Year" placeholder="Enter crop year" required>
+
+            <label for="Area">Area (in hectares):</label>
+            <input type="number" id="Area" placeholder="Enter area in hectares" required>
+
+            <label for="Annual_Rainfall">Annual Rainfall (in mm):</label>
+            <input type="number" id="Annual_Rainfall" placeholder="Enter annual rainfall in mm" required>
+
+            <label for="Fertilizer">Fertilizer (in kg):</label>
+            <input type="number" id="Fertilizer" placeholder="Enter fertilizer amount in kg" required>
+
+            <label for="Pesticide">Pesticide (in kg):</label>
+            <input type="number" id="Pesticide" placeholder="Enter pesticide amount in kg" required>
+
+            <button type="submit">Predict Yield</button>
+        </form>
+
+        <div id="result"></div>
+        <a href="home.html" class="back-button">Back</a>
+    </div>
+
+    <script src="script1.js"></script>
+</body>
+</html>

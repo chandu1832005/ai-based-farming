@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="watermanagement.css"> <!-- Link your CSS file -->
+    <title>Water Management</title>
+</head>
+<body>
+    <div class="container">
+        <button id="backButton" class="back-button">Back</button>
+        <h1>Water Management System</h1>
+        <form id="submit">
+            <label for="state">Select State:</label>
+            <select id="state">
+                <option value="">Select State</option>
+                <!-- Options will be populated dynamically -->
+            </select>
+
+            <label for="city">Select Location:</label>
+            <select id="city">
+                <option value="">Select Location</option>
+                <!-- Options will be populated dynamically -->
+            </select>
+
+            <label for="season">Select Season:</label>
+            <select id="season">
+                <option value="">Select Season</option>
+                <option value="Whole Year">Whole Year</option>
+                <option value="Kharif">Kharif</option>
+                <option value="Rabi">Rabi</option>
+                <option value="Zaid">Zaid</option>
+            </select>
+
+            <label for="budget">Enter Budget:</label>
+            <input type="number" id="budget" placeholder="Enter your budget" />
+
+            <label for="landSize">Enter Land Size (in acres):</label>
+            <input type="number" id="landSize" placeholder="Enter land size" />
+
+            <button type="button">Submit</button>
+        </form>
+
+        <div id="output"></div>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const form = document.getElementById("submit");
+            const stateSelect = document.getElementById("state");
+            const citySelect = document.getElementById("city");
+            const seasonSelect = document.getElementById("season");
+            const outputDiv = document.getElementById("output");
+    
+            let waterData = []; // Global variable to store water data
+            let cropData = []; // Global variable to store crop data
+    
+            // Load water data from multiple years
+            const loadWaterData = async (year) => {
+                try {
+                    const response = await fetch(`${year}water.json`);
+                    const data = await response.json();
+                    waterData = waterData.concat(data); // Concatenate water data from different years
+                } catch (error) {
+                    console.error(`Error loading ${year}water.json:`, error);
+                }
+            };
+    
+            // Load crop data from csvjson.json
+            const loadCropData = async () => {
+                try {
+                    const response = await fetch('csvjson.json');
+                    cropData = await response.json(); // Save crop data globally
+                } catch (error) {
+                    console.error('Error loading csvjson.json:', error);
+                }
+            };
+    
+            // Initialize data loading
+            const initializeData = async () => {
+                await Promise.all([loadWaterData('2018'), loadWaterData('2019'), loadWaterData('2021')]);
+                await loadCropData();
+                console.log('Water and crop data loaded successfully.');
+                populateStates();
+            };
+    
+            // Populate state dropdown based on water data
+            function populateStates() {
+                const states = [...new Set(waterData.map(water => water.STATE))]; // Unique states
+                states.forEach(state => {
+                    const option = document.createElement("option");
+                    option.value = state;
+                    option.textContent = state;
+                    stateSelect.appendChild(option);
+                });
+    
+                // Load cities based on selected state
+                stateSelect.addEventListener("change", function () {
+                    const selectedState = this.value;
+                    citySelect.innerHTML = '<option value="">Select City</option>'; // Reset cities dropdown
+                    
+                    // Filter water data for cities in the selected state
+                    waterData.forEach(water => {
+                        if (water.STATE === selectedState) {
+                            const option = document.createElement("option");
+                            option.value = water["Station Name"];
+                            option.textContent = water["Station Name"];
+                            citySelect.appendChild(option);
+                        }
+                    });
+                });
+            }
+    
+            form.querySelector("button").addEventListener("click", function () {
+                const selectedState = stateSelect.value;
+                const selectedCity = citySelect.value;
+                const selectedSeason = seasonSelect.value;
+                const budget = parseFloat(document.getElementById("budget").value);
+                const landSize = parseFloat(document.getElementById("landSize").value);
+    
+                // Check if city and state are selected
+                if (!selectedState || !selectedCity || !selectedSeason) {
+                    outputDiv.innerHTML = "<p>Please select a state, city, and season.</p>";
+                    return;
+                }
+    
+                // Calculate available water for the selected city
+                const availableWater = getAvailableWater(selectedState, selectedCity);
+                console.log('Available Water:', availableWater); // Debug output
+                if (availableWater === null) {
+                    outputDiv.innerHTML = "<p>No water data available for the selected city.</p>";
+                    return;
+                }
+    
+                // Display results
+                displayWaterAvailability(availableWater);
+                provideWaterManagementSuggestions(availableWater);
+            });
+    
+            // Function to get available water based on state and city
+            function getAvailableWater(state, city) {
+                const waterInfo = waterData.find(water => water.STATE === state && water["Station Name"] === city);
+                // Average conductivity as water availability
+                return waterInfo ? (waterInfo["Conductivity (µmhos/cm) Min"] + waterInfo["Conductivity (µmhos/cm) Max"]) / 2 : null; 
+            }
+    
+            // Function to display water availability
+            function displayWaterAvailability(availableWater) {
+                outputDiv.innerHTML = `<h2>Available Water: ${availableWater.toFixed(2)} µmhos/cm</h2>`;
+            }
+    
+            // Function to provide water management suggestions based on water availability
+            function provideWaterManagementSuggestions(availableWater) {
+                const suggestionsDiv = document.createElement("div");
+                suggestionsDiv.innerHTML = `<h3>Water Management Suggestions:</h3>`;
+                
+                if (availableWater < 1000) { // Example threshold for low water availability
+                    suggestionsDiv.innerHTML += `
+                        <p>Water availability is low. Here are some suggestions to manage and save water:</p>
+                        <ul>
+                            <li>Implement drip irrigation systems to minimize water wastage.</li>
+                            <li>Collect rainwater and use it for irrigation.</li>
+                            <li>Mulch around plants to reduce evaporation.</li>
+                            <li>Use soil moisture sensors to optimize watering schedules.</li>
+                            <li>Practice crop rotation to maintain soil health and reduce water usage.</li>
+                        </ul>`;
+                } else {
+                    suggestionsDiv.innerHTML += `
+                        <p>Water availability is good. Here are some suggestions on how to utilize it effectively:</p>
+                        <ul>
+                            <li>Consider expanding irrigation systems to increase crop yield.</li>
+                            <li>Use excess water for supplementary planting.</li>
+                            <li>Invest in water conservation technologies for long-term benefits.</li>
+                            <li>Promote practices that enhance groundwater recharge.</li>
+                            <li>Educate the community on sustainable water use.</li>
+                        </ul>`;
+                }
+                
+                outputDiv.appendChild(suggestionsDiv);
+            }
+    
+            // Start loading data on page load
+            initializeData();
+        });
+    </script>
+
+</body>
+</html>

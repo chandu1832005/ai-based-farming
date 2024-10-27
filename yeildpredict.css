@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px; /* Rounded edges for the container */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+select, input {
+    width: 100%; /* Full width for dropdowns and input fields */
+    padding: 10px; /* Increased padding */
+    margin-bottom: 10px;
+    border-radius: 5px; /* Rounded edges */
+    border: 1px solid #ccc; /* Light border */
+    transition: border-color 0.3s; /* Transition effect */
+}
+
+select:focus, input:focus {
+    border-color: #28a745; /* Change border color on focus */
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px; /* Rounded edges */
+    cursor: pointer;
+    transition: background-color 0.3s; /* Transition effect */
+}
+
+button:hover {
+    background-color: #218838; /* Darker green on hover */
+}
+
+.back-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 15px;
+    text-align: center;
+    color: white;
+    background-color: #007bff; /* Blue background */
+    border-radius: 5px; /* Rounded edges */
+    text-decoration: none; /* Remove underline */
+    transition: background-color 0.3s; /* Transition effect */
+}
+
+.back-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}

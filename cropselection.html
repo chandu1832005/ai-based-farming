@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Farming AI - Crop Selection</title>
+    <link rel="stylesheet" href="cropselection.css">
+</head>
+<body>
+    <div class="container">
+        <h1>AI-Based Smart Farming</h1>
+        <p>Select options to get crop recommendations:</p>
+        
+        <!-- Form for crop selection -->
+        <div class="form-group">
+            <label for="state">State:</label>
+            <select id="state">
+                <option value="">Select State</option>
+                <!-- States will be populated here -->
+            </select>
+        </div>
+    
+        <div class="form-group">
+            <label for="city">City:</label>
+            <select id="city">
+                <option value="">Select City</option>
+                <!-- Cities will be populated based on selected state -->
+            </select>
+        </div>
+    
+        <div class="form-group">
+            <label for="budget">Budget (INR):</label>
+            <input type="number" id="budget" placeholder="Enter your budget">
+        </div>
+    
+        <div class="form-group">
+            <label for="landSize">Land Size (acres):</label>
+            <input type="number" id="landSize" placeholder="Enter land size in acres">
+        </div>
+    
+        <div class="form-group">
+            <label for="season">Season:</label>
+            <select id="season">
+                <option value="">Select Season</option>
+                <!-- Seasons will be populated here -->
+            </select>
+        </div>
+    
+        <button id="submit">Get Crop Recommendations</button>
+    
+        <div id="output">
+            <!-- Crop recommendations will appear here -->
+        </div>
+    
+        <a href="home.html" id="back" class="button">Back to Home</a>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
